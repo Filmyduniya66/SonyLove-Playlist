@@ -2,37 +2,13 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-15 01:35:31 IST
-# Token exp : 2026-11-15 13:35:29 IST
-# Events    : 5 total, 0 new
+# Generated : 2026-11-15 05:21:46 IST
+# Token exp : 2026-11-15 17:21:44 IST
+# Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553940-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg" group-title="Premium Plugx Sports", Austria vs Republic of Ireland - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
+#EXTINF:-1 tvg-id="1090554243-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794743504~acl=/*~id=5cac8bc40e00870648fc23ffd4999c5f-1794700304330~hmac=a2227a27bdab58cb16ab05d74f82888bb3235c1833eaeeeac5a84f754f5c1b65
 
-#EXTINF:-1 tvg-id="1090553940-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg" group-title="Premium Plugx Sports", Austria vs Republic of Ireland - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/azwCGV-xRxy22VXykThYtA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553941-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg" group-title="Premium Plugx Sports", Northern Ireland vs Ukraine - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
-
-#EXTINF:-1 tvg-id="1090553941-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg" group-title="Premium Plugx Sports", Northern Ireland vs Ukraine - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/Jo-8wa1wQd6m_VARGCD1Hw/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553938-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg" group-title="Premium Plugx Sports", Portugal vs Denmark - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
-
-#EXTINF:-1 tvg-id="1090553938-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg" group-title="Premium Plugx Sports", Portugal vs Denmark - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/eT60vZKaTTSEq_yxBbwwNA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553939-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg" group-title="Premium Plugx Sports", Romania vs Poland - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
-
-#EXTINF:-1 tvg-id="1090553939-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg" group-title="Premium Plugx Sports", Romania vs Poland - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/VJ8OdS9oSgC_Tnu-HmCT3Q/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553937-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
-
-#EXTINF:-1 tvg-id="1090553937-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/HRD7ph6uQH-M3Nn_aqbLsg/master.m3u8
+#EXTINF:-1 tvg-id="1090554243-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/9Lxh2yCISsOk-GBSbMPx0w/master.m3u8
 
