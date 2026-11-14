@@ -2,43 +2,37 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-14 14:30:32 IST
-# Token exp : 2026-11-15 02:30:29 IST
-# Events    : 2 total, 0 new
+# Generated : 2026-11-15 01:35:31 IST
+# Token exp : 2026-11-15 13:35:29 IST
+# Events    : 5 total, 0 new
 
-#EXTINF:-1 tvg-id="1090553932-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+#EXTINF:-1 tvg-id="1090553940-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg" group-title="Premium Plugx Sports", Austria vs Republic of Ireland - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022320/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
 
-#EXTINF:-1 tvg-id="1090553932-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
+#EXTINF:-1 tvg-id="1090553940-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg" group-title="Premium Plugx Sports", Austria vs Republic of Ireland - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/azwCGV-xRxy22VXykThYtA/master.m3u8
 
-#EXTINF:-1 tvg-id="1090553929-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+#EXTINF:-1 tvg-id="1090553941-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg" group-title="Premium Plugx Sports", Northern Ireland vs Ukraine - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
 
-#EXTINF:-1 tvg-id="1090553929-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [HIN DAI]
-https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8
+#EXTINF:-1 tvg-id="1090553941-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg" group-title="Premium Plugx Sports", Northern Ireland vs Ukraine - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/Jo-8wa1wQd6m_VARGCD1Hw/master.m3u8
 
-#EXTINF:-1 tvg-id="1090553929-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1411/TEL/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+#EXTINF:-1 tvg-id="1090553938-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg" group-title="Premium Plugx Sports", Portugal vs Denmark - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
 
-#EXTINF:-1 tvg-id="1090553929-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TEL DAI]
-https://dai.google.com/ssai/event/lmNrofCLSbuOB2zQZBo3Hw/master.m3u8
+#EXTINF:-1 tvg-id="1090553938-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg" group-title="Premium Plugx Sports", Portugal vs Denmark - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/eT60vZKaTTSEq_yxBbwwNA/master.m3u8
 
-#EXTINF:-1 tvg-id="1090553929-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1411/TAM/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+#EXTINF:-1 tvg-id="1090553939-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg" group-title="Premium Plugx Sports", Romania vs Poland - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022316/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
 
-#EXTINF:-1 tvg-id="1090553929-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [TAM DAI]
-https://dai.google.com/ssai/event/_PjIG8_URyq2kpapR8dACw/master.m3u8
+#EXTINF:-1 tvg-id="1090553939-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg" group-title="Premium Plugx Sports", Romania vs Poland - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/VJ8OdS9oSgC_Tnu-HmCT3Q/master.m3u8
 
-#EXTINF:-1 tvg-id="1090553929-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1411/KAN/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
+#EXTINF:-1 tvg-id="1090553937-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/footlive1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794729929~acl=/*~id=f1ed71187326d484bc3ce6bb990fd25e-1794686729476~hmac=531b3520202e2025c46fe24cdc315ee8747fafc905d484a48f63c6362a25fd48
 
-#EXTINF:-1 tvg-id="1090553929-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [KAN DAI]
-https://dai.google.com/ssai/event/u5QstzpKTJGWhEZbsA_7Ng/master.m3u8
-
-#EXTINF:-1 tvg-id="1090553929-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794690029~acl=/*~id=b5ae97c4c8338ab4f65d9092cfb5c7a4-1794646828982~hmac=373b89ae27775ffdeb0764098d37f6abc8c4ecb3a17ef52d2c48438bfc729073
-
-#EXTINF:-1 tvg-id="1090553929-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan vs India - Final - 14 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/HNei_j1ZS7GJhL1GjSfiBg/master.m3u8
+#EXTINF:-1 tvg-id="1090553937-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/HRD7ph6uQH-M3Nn_aqbLsg/master.m3u8
 
