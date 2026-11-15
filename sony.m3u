@@ -2,43 +2,19 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-15 16:26:24 IST
-# Token exp : 2026-11-16 04:26:22 IST
+# Generated : 2026-11-15 23:02:44 IST
+# Token exp : 2026-11-16 11:02:42 IST
 # Events    : 2 total, 0 new
 
-#EXTINF:-1 tvg-id="1090554160-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/std_lrl-800300010.m3u8?hdnea=exp=1794783382~acl=/*~id=296795c889b7a4b2c8ad6588f10f2841-1794740181622~hmac=a4b5d845fbe9fcf31c7901e4f3c94e7c92089029b420969420a3cbeb180f48bc
+#EXTINF:-1 tvg-id="1090554018-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="Premium Plugx Sports", Belarus vs Albania - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794807162~acl=/*~id=755585fecce010d05a107a9dc8091aa2-1794763961787~hmac=4f98df124687891612c63867b87b2a92cacc3914617f08d369cc90d172cadf4a
 
-#EXTINF:-1 tvg-id="1090554160-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [HIN DAI]
-https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8
+#EXTINF:-1 tvg-id="1090554018-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="Premium Plugx Sports", Belarus vs Albania - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/WJgwumb_T1WR_Qf4m5caZQ/master.m3u8
 
-#EXTINF:-1 tvg-id="1090554160-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1411/TEL/std_lrl-800300010.m3u8?hdnea=exp=1794783382~acl=/*~id=296795c889b7a4b2c8ad6588f10f2841-1794740181622~hmac=a4b5d845fbe9fcf31c7901e4f3c94e7c92089029b420969420a3cbeb180f48bc
+#EXTINF:-1 tvg-id="1090554017-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="Premium Plugx Sports", Finland vs San Marino - 15 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794807162~acl=/*~id=755585fecce010d05a107a9dc8091aa2-1794763961787~hmac=4f98df124687891612c63867b87b2a92cacc3914617f08d369cc90d172cadf4a
 
-#EXTINF:-1 tvg-id="1090554160-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [TEL DAI]
-https://dai.google.com/ssai/event/QgJLQiYoS6e9sjo8_wIgiw/master.m3u8
-
-#EXTINF:-1 tvg-id="1090554160-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1411/TAM/std_lrl-800300010.m3u8?hdnea=exp=1794783382~acl=/*~id=296795c889b7a4b2c8ad6588f10f2841-1794740181622~hmac=a4b5d845fbe9fcf31c7901e4f3c94e7c92089029b420969420a3cbeb180f48bc
-
-#EXTINF:-1 tvg-id="1090554160-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [TAM DAI]
-https://dai.google.com/ssai/event/XypKP_cqTZ2iMTeYNYO1oA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090554160-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1411/KAN/std_lrl-800300010.m3u8?hdnea=exp=1794783382~acl=/*~id=296795c889b7a4b2c8ad6588f10f2841-1794740181622~hmac=a4b5d845fbe9fcf31c7901e4f3c94e7c92089029b420969420a3cbeb180f48bc
-
-#EXTINF:-1 tvg-id="1090554160-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [KAN DAI]
-https://dai.google.com/ssai/event/gbCjs5Q7QtayE8Msuiujdg/master.m3u8
-
-#EXTINF:-1 tvg-id="1090554160-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794783382~acl=/*~id=296795c889b7a4b2c8ad6588f10f2841-1794740181622~hmac=a4b5d845fbe9fcf31c7901e4f3c94e7c92089029b420969420a3cbeb180f48bc
-
-#EXTINF:-1 tvg-id="1090554160-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Premium Plugx Sports", 5th ODI - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8
-
-#EXTINF:-1 tvg-id="1090554163-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794783382~acl=/*~id=296795c889b7a4b2c8ad6588f10f2841-1794740181622~hmac=a4b5d845fbe9fcf31c7901e4f3c94e7c92089029b420969420a3cbeb180f48bc
-
-#EXTINF:-1 tvg-id="1090554163-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg" group-title="Premium Plugx Sports", DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/lCPZumh6RS6mpyQCA0ZOyA/master.m3u8
+#EXTINF:-1 tvg-id="1090554017-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="Premium Plugx Sports", Finland vs San Marino - 15 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
 
