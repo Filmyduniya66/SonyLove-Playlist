@@ -2,19 +2,31 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-15 23:02:44 IST
-# Token exp : 2026-11-16 11:02:42 IST
-# Events    : 2 total, 0 new
+# Generated : 2026-11-17 00:24:10 IST
+# Token exp : 2026-11-17 12:24:08 IST
+# Events    : 4 total, 0 new
 
-#EXTINF:-1 tvg-id="1090554018-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="Premium Plugx Sports", Belarus vs Albania - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794807162~acl=/*~id=755585fecce010d05a107a9dc8091aa2-1794763961787~hmac=4f98df124687891612c63867b87b2a92cacc3914617f08d369cc90d172cadf4a
+#EXTINF:-1 tvg-id="1090554514-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029081/1794699615115191_INT_Friendlies26_Andorra_vs_Azerbaijan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Andorra vs Azerbaijan - 16 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794898448~acl=/*~id=ec205e18f40ef4116863159e3256c776-1794855248327~hmac=e6821e77408ccd711bb1c49378662dc87dfc4d1e78077a956b42b8c33bbb8988
 
-#EXTINF:-1 tvg-id="1090554018-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="Premium Plugx Sports", Belarus vs Albania - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/WJgwumb_T1WR_Qf4m5caZQ/master.m3u8
+#EXTINF:-1 tvg-id="1090554514-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029081/1794699615115191_INT_Friendlies26_Andorra_vs_Azerbaijan_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Andorra vs Azerbaijan - 16 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
-#EXTINF:-1 tvg-id="1090554017-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="Premium Plugx Sports", Finland vs San Marino - 15 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794807162~acl=/*~id=755585fecce010d05a107a9dc8091aa2-1794763961787~hmac=4f98df124687891612c63867b87b2a92cacc3914617f08d369cc90d172cadf4a
+#EXTINF:-1 tvg-id="1090554494-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg" group-title="Premium Plugx Sports", Estonia vs Bulgaria - 16 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794898448~acl=/*~id=ec205e18f40ef4116863159e3256c776-1794855248327~hmac=e6821e77408ccd711bb1c49378662dc87dfc4d1e78077a956b42b8c33bbb8988
 
-#EXTINF:-1 tvg-id="1090554017-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="Premium Plugx Sports", Finland vs San Marino - 15 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
+#EXTINF:-1 tvg-id="1090554494-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg" group-title="Premium Plugx Sports", Estonia vs Bulgaria - 16 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090554490-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg" group-title="Premium Plugx Sports", Iceland vs Luxembourg - 16 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794898448~acl=/*~id=ec205e18f40ef4116863159e3256c776-1794855248327~hmac=e6821e77408ccd711bb1c49378662dc87dfc4d1e78077a956b42b8c33bbb8988
+
+#EXTINF:-1 tvg-id="1090554490-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg" group-title="Premium Plugx Sports", Iceland vs Luxembourg - 16 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/hL0zjl_nQv6Cqd1-CIjZgg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090554495-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg" group-title="Premium Plugx Sports", Lithuania vs Liechtenstein - 16 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrl-800300010.m3u8?hdnea=exp=1794898448~acl=/*~id=ec205e18f40ef4116863159e3256c776-1794855248327~hmac=e6821e77408ccd711bb1c49378662dc87dfc4d1e78077a956b42b8c33bbb8988
+
+#EXTINF:-1 tvg-id="1090554495-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg" group-title="Premium Plugx Sports", Lithuania vs Liechtenstein - 16 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
 
