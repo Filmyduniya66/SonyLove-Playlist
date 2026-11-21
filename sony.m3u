@@ -2,37 +2,13 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-21 07:16:34 IST
-# Token exp : 2026-11-21 19:16:32 IST
+# Generated : 2026-11-21 14:20:07 IST
+# Token exp : 2026-11-22 02:20:05 IST
 # Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090555319-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2011/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795268792~acl=/*~id=34a8d09f43f979dbee5683aa5e833ca9-1795225592333~hmac=9621fbb2cf461d4c367bb5ba1b38a0391c686ff5c99370a44eb5f39dba61ee5d
+#EXTINF:-1 tvg-id="1090555331-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795294205~acl=/*~id=c37c66ece43777a69e93804895245f48-1795251004619~hmac=f44483cb5ebcd4c376add369bf6f00b7d0e15b95f085609062124101eb4817aa
 
-#EXTINF:-1 tvg-id="1090555319-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [HIN DAI]
-https://dai.google.com/ssai/event/eK4mtdNpTZODjbb_S6qZcQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1090555319-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2011/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795268792~acl=/*~id=34a8d09f43f979dbee5683aa5e833ca9-1795225592333~hmac=9621fbb2cf461d4c367bb5ba1b38a0391c686ff5c99370a44eb5f39dba61ee5d
-
-#EXTINF:-1 tvg-id="1090555319-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [TEL DAI]
-https://dai.google.com/ssai/event/o8SXGLQ5TreQRVnCQUAKJQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1090555319-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2011/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795268792~acl=/*~id=34a8d09f43f979dbee5683aa5e833ca9-1795225592333~hmac=9621fbb2cf461d4c367bb5ba1b38a0391c686ff5c99370a44eb5f39dba61ee5d
-
-#EXTINF:-1 tvg-id="1090555319-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [TAM DAI]
-https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1090555319-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2011/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795268792~acl=/*~id=34a8d09f43f979dbee5683aa5e833ca9-1795225592333~hmac=9621fbb2cf461d4c367bb5ba1b38a0391c686ff5c99370a44eb5f39dba61ee5d
-
-#EXTINF:-1 tvg-id="1090555319-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [KAN DAI]
-https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8
-
-#EXTINF:-1 tvg-id="1090555319-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2011/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795268792~acl=/*~id=34a8d09f43f979dbee5683aa5e833ca9-1795225592333~hmac=9621fbb2cf461d4c367bb5ba1b38a0391c686ff5c99370a44eb5f39dba61ee5d
-
-#EXTINF:-1 tvg-id="1090555319-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Premium Plugx Sports", 1st Test - Day 3 - 21 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8
+#EXTINF:-1 tvg-id="1090555331-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/H3hmvZbOSwehV9bLSuZoMg/master.m3u8
 
