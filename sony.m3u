@@ -2,13 +2,25 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-21 14:20:07 IST
-# Token exp : 2026-11-22 02:20:05 IST
-# Events    : 1 total, 0 new
+# Generated : 2026-11-21 21:56:28 IST
+# Token exp : 2026-11-22 09:56:25 IST
+# Events    : 2 total, 0 new
 
-#EXTINF:-1 tvg-id="1090555331-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795294205~acl=/*~id=c37c66ece43777a69e93804895245f48-1795251004619~hmac=f44483cb5ebcd4c376add369bf6f00b7d0e15b95f085609062124101eb4817aa
+#EXTINF:-1 tvg-id="1090555335-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795321585~acl=/*~id=7f84be51f4cfbc890afda9ce3f1a0963-1795278384632~hmac=4e94608c73a861b15a6a9f05f971f69901a45673a06785c350ca3ae6d15ef2c6
 
-#EXTINF:-1 tvg-id="1090555331-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/H3hmvZbOSwehV9bLSuZoMg/master.m3u8
+#EXTINF:-1 tvg-id="1090555335-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/k546vMA7RwaIHM8n9oSIyw/master.m3u8
+
+#EXTINF:-1 tvg-id="1090555340-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Premium Plugx Sports", NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795321585~acl=/*~id=7f84be51f4cfbc890afda9ce3f1a0963-1795278384632~hmac=4e94608c73a861b15a6a9f05f971f69901a45673a06785c350ca3ae6d15ef2c6
+
+#EXTINF:-1 tvg-id="1090555340-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Premium Plugx Sports", NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/ECpK3n1QSK-Z0ZZ64OuSyA/master.m3u8
+
+#EXTINF:-1 tvg-id="1090555340-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Premium Plugx Sports", NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795321585~acl=/*~id=7f84be51f4cfbc890afda9ce3f1a0963-1795278384632~hmac=4e94608c73a861b15a6a9f05f971f69901a45673a06785c350ca3ae6d15ef2c6
+
+#EXTINF:-1 tvg-id="1090555340-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Premium Plugx Sports", NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
