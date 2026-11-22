@@ -2,13 +2,37 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-22 14:20:25 IST
-# Token exp : 2026-11-23 02:20:22 IST
+# Generated : 2026-11-22 22:12:44 IST
+# Token exp : 2026-11-23 10:12:41 IST
 # Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090555675-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", UAE vs Nepal - 22 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795380622~acl=/*~id=590fcdc99615a8d72008378dc1a8491f-1795337422458~hmac=07481a67084cc7a9791ae91a935cb98f2ffa6e9e8c62bad4c79390e89c96c798
+#EXTINF:-1 tvg-id="1090555678-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2211/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795408961~acl=/*~id=73bc2a21ab364a81af5f551375ef64c5-1795365761394~hmac=e33860e9ee8cda3101f06ed58e3dbddf4df0f6946d4d12ef1b885dd646be6d48
 
-#EXTINF:-1 tvg-id="1090555675-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", UAE vs Nepal - 22 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/oKUJa3NlT_uGJZQZZ6a-Tg/master.m3u8
+#EXTINF:-1 tvg-id="1090555678-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/eK4mtdNpTZODjbb_S6qZcQ/master.m3u8
+
+#EXTINF:-1 tvg-id="1090555678-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2211/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795408961~acl=/*~id=73bc2a21ab364a81af5f551375ef64c5-1795365761394~hmac=e33860e9ee8cda3101f06ed58e3dbddf4df0f6946d4d12ef1b885dd646be6d48
+
+#EXTINF:-1 tvg-id="1090555678-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [TEL DAI]
+https://dai.google.com/ssai/event/o8SXGLQ5TreQRVnCQUAKJQ/master.m3u8
+
+#EXTINF:-1 tvg-id="1090555678-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2211/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795408961~acl=/*~id=73bc2a21ab364a81af5f551375ef64c5-1795365761394~hmac=e33860e9ee8cda3101f06ed58e3dbddf4df0f6946d4d12ef1b885dd646be6d48
+
+#EXTINF:-1 tvg-id="1090555678-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [TAM DAI]
+https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8
+
+#EXTINF:-1 tvg-id="1090555678-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2211/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795408961~acl=/*~id=73bc2a21ab364a81af5f551375ef64c5-1795365761394~hmac=e33860e9ee8cda3101f06ed58e3dbddf4df0f6946d4d12ef1b885dd646be6d48
+
+#EXTINF:-1 tvg-id="1090555678-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [KAN DAI]
+https://dai.google.com/ssai/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090555678-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2211/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795408961~acl=/*~id=73bc2a21ab364a81af5f551375ef64c5-1795365761394~hmac=e33860e9ee8cda3101f06ed58e3dbddf4df0f6946d4d12ef1b885dd646be6d48
+
+#EXTINF:-1 tvg-id="1090555678-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg" group-title="Premium Plugx Sports", India A vs Pakistan Shaheens - 22 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8
 
