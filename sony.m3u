@@ -2,19 +2,73 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-24 23:31:50 IST
-# Token exp : 2026-11-25 11:31:48 IST
-# Events    : 2 total, 0 new
+# Generated : 2026-11-26 02:01:56 IST
+# Token exp : 2026-11-26 14:01:51 IST
+# Events    : 7 total, 0 new
 
-#EXTINF:-1 tvg-id="1090556134-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="Premium Plugx Sports", Bodø/Glimt vs LASK - 24 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795586508~acl=/*~id=e120e629ddd2de8668febea4c953a438-1795543307929~hmac=bb003d5684e39480dba4256b6ef896aae994998b4e995773770d3fef5570d8f6
+#EXTINF:-1 tvg-id="1090556336-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Premium Plugx Sports", Atlético de Madrid vs Viking FK - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
 
-#EXTINF:-1 tvg-id="1090556134-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="Premium Plugx Sports", Bodø/Glimt vs LASK - 24 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
+#EXTINF:-1 tvg-id="1090556336-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Premium Plugx Sports", Atlético de Madrid vs Viking FK - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/zgMw2ZulRlmZGCHomPXCNg/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556135-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="Premium Plugx Sports", Galatasaray vs Aston Villa - 24 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795586508~acl=/*~id=e120e629ddd2de8668febea4c953a438-1795543307929~hmac=bb003d5684e39480dba4256b6ef896aae994998b4e995773770d3fef5570d8f6
+#EXTINF:-1 tvg-id="1090556338-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Premium Plugx Sports", Club Brugge vs Liverpool - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
 
-#EXTINF:-1 tvg-id="1090556135-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="Premium Plugx Sports", Galatasaray vs Aston Villa - 24 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
+#EXTINF:-1 tvg-id="1090556338-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Premium Plugx Sports", Club Brugge vs Liverpool - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/6EYAfTCGSZqGhIK12mceMA/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556335-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Premium Plugx Sports", Inter Milan vs VfB Stuttgart - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556335-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Premium Plugx Sports", Inter Milan vs VfB Stuttgart - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/OrrE0QodR-2jX2eFpzqRPg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556339-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Premium Plugx Sports", Lille vs Bayern Munich - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556339-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Premium Plugx Sports", Lille vs Bayern Munich - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/-LYjP-fUThmaEuzz_2ag6g/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556329-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Premium Plugx Sports", PSG vs AS Roma - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556329-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Premium Plugx Sports", PSG vs AS Roma - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/jawvtp-UQSSg_zM0O9NHYg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556340-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Premium Plugx Sports", Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556340-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Premium Plugx Sports", Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/agfzcpPVQdSgTrMeRS2J3A/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556337-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2043696/Footlive2511/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556337-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/vK0Y_rQxQ2WLCyXrCKz2Bg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556337-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105080/Footlive2511/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556337-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TEL DAI]
+https://dai.google.com/ssai/event/SRArPVGVSfS0UheUcQATlQ/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556337-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2118672/Footlive2511/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556337-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TAM DAI]
+https://dai.google.com/ssai/event/6fw7nFtWR7-xaGBSUllrWg/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556337-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094590/Footlive2511/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556337-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [KAN DAI]
+https://dai.google.com/ssai/event/Hc2NUdUCSnKsNDd0PJvJlw/master.m3u8
+
+#EXTINF:-1 tvg-id="1090556337-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+
+#EXTINF:-1 tvg-id="1090556337-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8
 
