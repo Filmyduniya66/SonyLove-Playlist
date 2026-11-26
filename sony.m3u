@@ -2,73 +2,37 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-26 02:01:56 IST
-# Token exp : 2026-11-26 14:01:51 IST
-# Events    : 7 total, 0 new
+# Generated : 2026-11-26 17:40:22 IST
+# Token exp : 2026-11-27 05:40:14 IST
+# Events    : 1 total, 0 new
 
-#EXTINF:-1 tvg-id="1090556336-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Premium Plugx Sports", Atlético de Madrid vs Viking FK - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+#EXTINF:-1 tvg-id="1090556383-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2611/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
 
-#EXTINF:-1 tvg-id="1090556336-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Premium Plugx Sports", Atlético de Madrid vs Viking FK - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/zgMw2ZulRlmZGCHomPXCNg/master.m3u8
+#EXTINF:-1 tvg-id="1090556383-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/rraYHmFESbedpbSoO9urmw/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556338-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Premium Plugx Sports", Club Brugge vs Liverpool - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+#EXTINF:-1 tvg-id="1090556383-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2611/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
 
-#EXTINF:-1 tvg-id="1090556338-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Premium Plugx Sports", Club Brugge vs Liverpool - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/6EYAfTCGSZqGhIK12mceMA/master.m3u8
+#EXTINF:-1 tvg-id="1090556383-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL DAI]
+https://dai.google.com/ssai/event/eoiZASLwTsqdmYd7z6qePA/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556335-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Premium Plugx Sports", Inter Milan vs VfB Stuttgart - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+#EXTINF:-1 tvg-id="1090556383-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2611/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
 
-#EXTINF:-1 tvg-id="1090556335-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Premium Plugx Sports", Inter Milan vs VfB Stuttgart - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/OrrE0QodR-2jX2eFpzqRPg/master.m3u8
+#EXTINF:-1 tvg-id="1090556383-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM DAI]
+https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556339-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Premium Plugx Sports", Lille vs Bayern Munich - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+#EXTINF:-1 tvg-id="1090556383-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2611/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
 
-#EXTINF:-1 tvg-id="1090556339-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Premium Plugx Sports", Lille vs Bayern Munich - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/-LYjP-fUThmaEuzz_2ag6g/master.m3u8
+#EXTINF:-1 tvg-id="1090556383-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN DAI]
+https://dai.google.com/ssai/event/69AgMVn0SBCTixLhMXYSYg/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556329-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Premium Plugx Sports", PSG vs AS Roma - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
+#EXTINF:-1 tvg-id="1090556383-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
 
-#EXTINF:-1 tvg-id="1090556329-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Premium Plugx Sports", PSG vs AS Roma - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/jawvtp-UQSSg_zM0O9NHYg/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556340-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Premium Plugx Sports", Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
-
-#EXTINF:-1 tvg-id="1090556340-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Premium Plugx Sports", Shakhtar Donetsk vs Fenerbahçe - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/agfzcpPVQdSgTrMeRS2J3A/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556337-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/Footlive2511/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
-
-#EXTINF:-1 tvg-id="1090556337-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [HIN DAI]
-https://dai.google.com/ssai/event/vK0Y_rQxQ2WLCyXrCKz2Bg/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556337-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105080/Footlive2511/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
-
-#EXTINF:-1 tvg-id="1090556337-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TEL DAI]
-https://dai.google.com/ssai/event/SRArPVGVSfS0UheUcQATlQ/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556337-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2118672/Footlive2511/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
-
-#EXTINF:-1 tvg-id="1090556337-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [TAM DAI]
-https://dai.google.com/ssai/event/6fw7nFtWR7-xaGBSUllrWg/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556337-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/Footlive2511/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
-
-#EXTINF:-1 tvg-id="1090556337-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [KAN DAI]
-https://dai.google.com/ssai/event/Hc2NUdUCSnKsNDd0PJvJlw/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556337-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795681911~acl=/*~id=a788b3b6d008a779f5647b6deb5c2a4a-1795638710508~hmac=d3ca035f311afc1ba57b0aad0acf4232f5b42667e480f30bf72bce80250421bc
-
-#EXTINF:-1 tvg-id="1090556337-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sporting CP vs Manchester United - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8
+#EXTINF:-1 tvg-id="1090556383-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/CR5lqbOVREmDMoyGnXfA_Q/master.m3u8
 
