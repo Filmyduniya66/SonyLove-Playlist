@@ -2,37 +2,25 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-26 17:40:22 IST
-# Token exp : 2026-11-27 05:40:14 IST
-# Events    : 1 total, 0 new
+# Generated : 2026-11-27 18:39:51 IST
+# Token exp : 2026-11-28 06:39:48 IST
+# Events    : 2 total, 0 new
 
-#EXTINF:-1 tvg-id="1090556383-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2611/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
+#EXTINF:-1 tvg-id="1090556922-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Premium Plugx Sports", KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795828188~acl=/*~id=9b29879a257e2eb9054ffd08cd04d2b1-1795784988268~hmac=cca37413cafe363214bdd8597e9562b20d708d0123264e08d755d2d4b555a581
 
-#EXTINF:-1 tvg-id="1090556383-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN DAI]
-https://dai.google.com/ssai/event/rraYHmFESbedpbSoO9urmw/master.m3u8
+#EXTINF:-1 tvg-id="1090556922-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Premium Plugx Sports", KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN DAI]
+https://dai.google.com/ssai/event/eK4mtdNpTZODjbb_S6qZcQ/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556383-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2611/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
+#EXTINF:-1 tvg-id="1090556922-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Premium Plugx Sports", KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795828188~acl=/*~id=9b29879a257e2eb9054ffd08cd04d2b1-1795784988268~hmac=cca37413cafe363214bdd8597e9562b20d708d0123264e08d755d2d4b555a581
 
-#EXTINF:-1 tvg-id="1090556383-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL DAI]
-https://dai.google.com/ssai/event/eoiZASLwTsqdmYd7z6qePA/master.m3u8
+#EXTINF:-1 tvg-id="1090556922-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Premium Plugx Sports", KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/HbYHMQi6RayDq1OFZ_-O-Q/master.m3u8
 
-#EXTINF:-1 tvg-id="1090556383-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2611/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
+#EXTINF:-1 tvg-id="1090556911-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795828188~acl=/*~id=9b29879a257e2eb9054ffd08cd04d2b1-1795784988268~hmac=cca37413cafe363214bdd8597e9562b20d708d0123264e08d755d2d4b555a581
 
-#EXTINF:-1 tvg-id="1090556383-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM DAI]
-https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556383-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2611/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
-
-#EXTINF:-1 tvg-id="1090556383-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN DAI]
-https://dai.google.com/ssai/event/69AgMVn0SBCTixLhMXYSYg/master.m3u8
-
-#EXTINF:-1 tvg-id="1090556383-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795738214~acl=/*~id=1203c118cf0813d65ea3d810e3f0735e-1795695013852~hmac=b13109855f805ffb1ab782c6215928f046ba75d4c569baaa6da8ec907bfa6067
-
-#EXTINF:-1 tvg-id="1090556383-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG DAI]
-https://dai.google.com/ssai/event/CR5lqbOVREmDMoyGnXfA_Q/master.m3u8
+#EXTINF:-1 tvg-id="1090556911-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Premium Plugx Sports", Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG DAI]
+https://dai.google.com/ssai/event/-UEZ_0KNSiyvQzCkYeA5Rw/master.m3u8
 
