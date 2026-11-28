@@ -2,36 +2,36 @@
 # name: Premium Plugx Sliv events
 # Powered by Premium Plugx
 # Source : PAGE-V2/2245 (dynamic tray discovery · v6.5/3.6.88)
-# Generated : 2026-11-28 03:26:34 IST
-# Token exp : 2026-11-28 15:26:31 IST
+# Generated : 2026-11-28 09:12:27 IST
+# Token exp : 2026-11-28 21:12:25 IST
 # Events    : 1 total, 0 new
 
 #EXTINF:-1 tvg-id="1090556990-hin" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [HIN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2711/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795859791~acl=/*~id=70aaf0f1fb9d5c8143d051be5bf901b5-1795816591521~hmac=2f9227ea1b359ec26f635381d82b93bf80f303042e088e9943136cc691214a40
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2711/HIN/std_lrl-800300010.m3u8?hdnea=exp=1795880545~acl=/*~id=ac9989f3033413e59613861759a42f55-1795837344837~hmac=1453824c16b4b5d08797337f86325f318cc17c8748075154dfb98d45f5cf0bd9
 
 #EXTINF:-1 tvg-id="1090556990-hin-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [HIN DAI]
 https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8
 
 #EXTINF:-1 tvg-id="1090556990-tel" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [TEL]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2711/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795859791~acl=/*~id=70aaf0f1fb9d5c8143d051be5bf901b5-1795816591521~hmac=2f9227ea1b359ec26f635381d82b93bf80f303042e088e9943136cc691214a40
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2711/TEL/std_lrl-800300010.m3u8?hdnea=exp=1795880545~acl=/*~id=ac9989f3033413e59613861759a42f55-1795837344837~hmac=1453824c16b4b5d08797337f86325f318cc17c8748075154dfb98d45f5cf0bd9
 
 #EXTINF:-1 tvg-id="1090556990-tel-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [TEL DAI]
 https://dai.google.com/ssai/event/kgAhzBh9QA6uyrqfBa8APg/master.m3u8
 
 #EXTINF:-1 tvg-id="1090556990-tam" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [TAM]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2711/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795859791~acl=/*~id=70aaf0f1fb9d5c8143d051be5bf901b5-1795816591521~hmac=2f9227ea1b359ec26f635381d82b93bf80f303042e088e9943136cc691214a40
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2711/TAM/std_lrl-800300010.m3u8?hdnea=exp=1795880545~acl=/*~id=ac9989f3033413e59613861759a42f55-1795837344837~hmac=1453824c16b4b5d08797337f86325f318cc17c8748075154dfb98d45f5cf0bd9
 
 #EXTINF:-1 tvg-id="1090556990-tam-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [TAM DAI]
 https://dai.google.com/ssai/event/-O_xBocnQ-ufGun506JvAA/master.m3u8
 
 #EXTINF:-1 tvg-id="1090556990-kan" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [KAN]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2711/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795859791~acl=/*~id=70aaf0f1fb9d5c8143d051be5bf901b5-1795816591521~hmac=2f9227ea1b359ec26f635381d82b93bf80f303042e088e9943136cc691214a40
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2711/KAN/std_lrl-800300010.m3u8?hdnea=exp=1795880545~acl=/*~id=ac9989f3033413e59613861759a42f55-1795837344837~hmac=1453824c16b4b5d08797337f86325f318cc17c8748075154dfb98d45f5cf0bd9
 
 #EXTINF:-1 tvg-id="1090556990-kan-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [KAN DAI]
 https://dai.google.com/ssai/event/EoLh9waTQSaoJqJMxe-Zlw/master.m3u8
 
 #EXTINF:-1 tvg-id="1090556990-eng" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [ENG]
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795859791~acl=/*~id=70aaf0f1fb9d5c8143d051be5bf901b5-1795816591521~hmac=2f9227ea1b359ec26f635381d82b93bf80f303042e088e9943136cc691214a40
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/std_lrl-800300010.m3u8?hdnea=exp=1795880545~acl=/*~id=ac9989f3033413e59613861759a42f55-1795837344837~hmac=1453824c16b4b5d08797337f86325f318cc17c8748075154dfb98d45f5cf0bd9
 
 #EXTINF:-1 tvg-id="1090556990-eng-dai" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Premium Plugx Sports", 2nd Test - Day 2 - 28 Nov 2026 [ENG DAI]
 https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
